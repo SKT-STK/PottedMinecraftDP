@@ -1,0 +1,15 @@
+allows you to (by interacting with the top of the flower pot instead of one of the sides) place blocks in a flower pot that you normally couldnt!,
+like for example:
+sugar cane,
+wheat,
+torchflower crop,
+pitcher crop,
+cherry leaves,
+pink petals,
+chorus flower,
+spore blossom,
+sunflower,
+lilac,
+peony,
+rose bush,
+pitcher_plant

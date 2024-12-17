@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "interaction_right_click": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:interaction"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "potted:interacted"
+  }
+}
