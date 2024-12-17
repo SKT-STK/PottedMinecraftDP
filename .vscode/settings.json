@@ -2,10 +2,13 @@
   "cSpell.words": [
     "Datapack",
     "datapacks",
+    "dont",
     "mainhand",
     "mcfunction",
     "Modrinth",
+    "playsound",
     "setblock",
+    "stopsound",
     "tellraw"
   ]
 }
