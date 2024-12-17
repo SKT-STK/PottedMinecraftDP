@@ -12,4 +12,4 @@ sunflower,
 lilac,
 peony,
 rose bush,
-pitcher_plant
+pitcher plant
